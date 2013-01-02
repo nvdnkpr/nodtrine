@@ -1,0 +1,20 @@
+{
+  "name": "nodtrine",
+  "version": "0.0.0",
+  "description": "Doctrine2 Port to NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nvdnkpr/nodtrine.git"
+  },
+  "keywords": [
+    "Doctrine2",
+    "NodeJS",
+    "CommonJS"
+  ],
+  "author": "Navid Nikpour",
+  "license": "BSD"
+}
